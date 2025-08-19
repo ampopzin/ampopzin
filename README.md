@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**ampopzin/ampopzin** is a ✨ _special_ ✨ repository <p align="center">
+<p align="center">
   <img src="https://c.tenor.com/BV2Ed98knL4AAAAC/tenor.gif" alt="Coding GIF"/>
   <h1 align="center">Hey, I'm Alfin 👋🏻</h1>
 </p>
@@ -42,16 +39,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ampopzin&theme=radical" width="48%"/>
-</p> its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
