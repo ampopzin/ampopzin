@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/BV2Ed98knL4AAAAC/tenor.gif" alt="Coding GIF"/>
+  <img src="https://i.postimg.cc/c40pRPnZ/sabo.gif" alt="Sabo"/>
   <h1 align="center">Hey, I'm Alfin 👋🏻</h1>
 </p>
 
